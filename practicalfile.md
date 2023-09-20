@@ -57,10 +57,10 @@ GMR =
 For a three-phase symmetrical spacing in a transmission line, the formulas for Geometric Mean Radius (GMR) and Geometric Mean Distance (GMD) are as follows:
 
 **GMR Formula:**
-GMR = √(r₁ _ r₂ _ r₃)
+`GMR = √(r₁ * r₂ * ... * rₙ)`.
 
 **GMD Formula:**
-GMD = (d₁ _ d₂ _ d₃)^(1/3)
+`GMD = (d₁ * d₂ * ... * dₙ)^(1/n)`.
 
 ### Code
 
